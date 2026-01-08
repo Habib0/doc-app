@@ -82,7 +82,7 @@ Please do not reply to this message.`;
 
 // Create simple email messages for both recipients
 // Append professional signature / footnote
-const signature = `\n--\nHabib Ullah\nSQA Automation Engineer\nXeven Solutions`;
+const signature = `Xeven Solutions`;
 textContent = textContent + signature;
 
 // Create simple email messages for both recipients with neutral sender name
