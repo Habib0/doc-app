@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^15.8.2",
+    "cypress-plugin-api": "^2.11.2",
+    "dotenv": "^16.5.0"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6"
+  }
+}
