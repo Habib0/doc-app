@@ -3,9 +3,9 @@ name: Daily Link Check
 on:
   schedule:
     # 10:00 PKT (UTC+5) -> 05:00 UTC
-    - cron: '0 5 * * *'
+    - cron: '0 4 * * *'
     # 17:00 PKT (UTC+5) -> 12:00 UTC
-    - cron: '0 12 * * *'
+    - cron: '0 11 * * *'
   workflow_dispatch:
 
 jobs:
